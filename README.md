@@ -1,6 +1,8 @@
 # Ejemplos de Procesamiento Paralelo en Python
 
-Este repositorio contiene ejemplos educativos que demuestran conceptos de procesamiento paralelo en Python utilizando diversos enfoques. Cada ejemplo compara implementaciones secuenciales (un solo hilo) versus paralelas para mostrar mejoras de rendimiento.
+Este repositorio contiene ejemplos sencillos que demuestran conceptos de procesamiento paralelo en Python utilizando `multiprocessing`. 
+
+Cada ejemplo compara implementaciones secuenciales y paralelas para mostrar diferencias de rendimiento.
 
 ## Ejemplos
 
